@@ -42,7 +42,6 @@ nav a {
   background-color: var(--sub-menu-bg);
 }
 
-
 header, #top-menu {
 
 	position: relative;
@@ -58,6 +57,7 @@ header, #top-menu {
 #sub-menu {
 
 	width: 100%;
+  
 
 	z-index: 10;
 
@@ -76,5 +76,6 @@ nav a.active {
 	background-color: var(--sub-menu-bg);
 
 	color: var(--main-bg);
+
 
 }
